@@ -1,0 +1,10 @@
+.navbar {
+  background-color: black;
+  padding: 10px;
+  font-weight: bold;
+  color: white;
+  border-radius: 15px;
+  text-align: center;
+  margin-right: 1%;
+  margin-left: 1%;
+}
