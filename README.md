@@ -1,7 +1,7 @@
 # Kanban_React
 
-PROJETO DE CONTROLE DE TAREFAS 
+PROJETO DE CONTROLE DE TAREFAS -KANBAN
 
-LINK DA APLICAÇÃO HOSPEDADA (CodeSandBoX)
+#LINK DA APLICAÇÃO HOSPEDADA (CodeSandBoX)
 
-https://qqi5wu-3000.csb.app/
+[LINK DIRETO](https://qqi5wu-3000.csb.app/)
